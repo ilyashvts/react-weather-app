@@ -1,0 +1,7 @@
+{
+  "WEATHER_URL": "https://api.openweathermap.org/data/2.5/",
+  "WEATHER_API_KEY": "f643fd90cb1908f1238085bc07f2a161",
+  "DaysShort": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+  "Days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+  "Month": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+}
